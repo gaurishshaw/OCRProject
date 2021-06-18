@@ -30,7 +30,7 @@ parameters:
     default: "1.0.1"
 
 trigger:
-  - master
+  - main
 
 variables:
   - name: 'apkFilePath'
